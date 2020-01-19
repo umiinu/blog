@@ -1,0 +1,28 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+videos:
+  - https://youtu.be/aaa
+---
+
+|===
+|項目|説明
+
+|日付
+|2017-01-17
+
+|クラス
+|ウィッチ, 式神ウィッチ
+
+|デッキ詳細
+|https://shadowverse-portal.com/deck/3.3.5-gkQ.5-gkQ.5-gkQ.6iUNQ.6iUNQ.6iUNQ.5-gka.5-gka.5-gka.5-gkk.6mLRw.6mLRw.6mLRw.6q4iQ.6turQ.6turQ.6turQ.6eiR2.6ty_2.6ty_2.6ty_2.6q8sC.6q8sC.6q8sC.6twYo.6twYo.6twYy.6twYy.6twYy.5-glM.5-glM.5-glM.6edYi.6edYi.6edYi.6iWaC.6iWaC.6iWaC.6t_RI.6t_RI?lang=ja[link]
+
+|相手クラス
+|
+
+|結果
+|敗北
+|===
+
+{{< youtube aaa >}}
