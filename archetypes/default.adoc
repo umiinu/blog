@@ -6,8 +6,8 @@ videos:
   - https://youtu.be/aaa
 ---
 
+[cols="1,4"]
 |===
-|項目|説明
 
 |日付
 |2017-01-17
