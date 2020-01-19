@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "slick"
+baseURL = "https://umiinu.github.io/"
+languageCode = "ja-jp"
+title = "うみいぬのシャドウバースリプレイ"
+theme = "okayish"
+hasCJKLanguage = true
