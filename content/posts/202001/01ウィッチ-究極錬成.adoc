@@ -1,0 +1,50 @@
+---
+title: "ウィッチ 究極錬成"
+date: 2020-01-19T13:39:44Z
+draft: false
+videos:
+  - https://youtu.be/pEKnWEX9Wbs
+---
+
+==  ログ
+
+ゴーレムウィッチ、究極錬成ウィッチ、究極ゴーレムウィッチなどと呼称されているようだ。
+
+https://youtu.be/pEKnWEX9Wbs?t=2m4s[6ターン目]で究極錬成からアルティメット・クレイゴーレムとガーディアンゴーレムが出ている。
+ということはこの時点でスペルブーストが12以上ということか？
+
+見直してみたところ、5ターン目まででブースト10回、6ターン目で2回ブーストして究極錬成、なので最初から手札にあった模様。
+
+https://youtu.be/pEKnWEX9Wbs?t=2m40s[7ターン目]、ゴーレムの錬成から出たクレイゴーレムがアルティメット・クレイゴーレムになっている。
+これは上で出たアルティメット・クレイゴーレムの進化時効果のようだ。
+
+[quote, 'https://shadowverse-portal.com/card/900341010[アルティメット・クレイゴーレム｜Shadowverse Portal]']
+____
+進化時 このバトル中、自分のリーダーは「自分のターン中、自分の場にクレイゴーレムが出るたび、アルティメット・クレイゴーレムに変身させる」を持つ。リーダーはこの能力を重複して持たない。
+____
+
+https://youtu.be/pEKnWEX9Wbs?t=210[8ターン目]でも究極錬成。
+https://youtu.be/pEKnWEX9Wbs?t=40[3ターン目]で研究使ってコピーしたものがこれだろうか。
+
+== 情報
+
+[cols="1,4"]
+|===
+
+|日付
+|2020-01-17
+
+|クラス
+|ウィッチ, 式神ウィッチ
+
+|デッキ詳細
+|https://shadowverse-portal.com/deck/3.3.5-gkQ.5-gkQ.5-gkQ.6iUNQ.6iUNQ.6iUNQ.5-gka.5-gka.5-gka.5-gkk.6mLRw.6mLRw.6mLRw.6q4iQ.6turQ.6turQ.6turQ.6eiR2.6ty_2.6ty_2.6ty_2.6q8sC.6q8sC.6q8sC.6twYo.6twYo.6twYy.6twYy.6twYy.5-glM.5-glM.5-glM.6edYi.6edYi.6edYi.6iWaC.6iWaC.6iWaC.6t_RI.6t_RI?lang=ja[式神ウィッチ1]
+
+|相手クラス
+|ウィッチ, ゴーレムウィッチ
+
+|結果
+|敗北
+|===
+
+{{< youtube pEKnWEX9Wbs >}}
