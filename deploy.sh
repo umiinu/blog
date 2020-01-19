@@ -1,6 +1,8 @@
 #!/bin/sh
 # https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script
 
+alias hugo='docker run --rm -it -u $(id -u $USER) -v $(pwd):/src -v $(pwd)/output:/target -p 1313:1313 klakegg/hugo:0.62.2-ext-asciidoctor'
+
 # If a command fails then the deploy stops
 set -e
 
